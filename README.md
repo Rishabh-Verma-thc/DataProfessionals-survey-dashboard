@@ -32,7 +32,7 @@ This project is based on a real-world survey dataset shared by **Alex The Analys
 ## 🖼️ Dashboard Pages
 
 ### 1️⃣ Overview Page
-![Overview Page](images/overview_page.png)
+![Overview Page](Images/overview_page.png)
 
 **Features:**
 - Total respondents and demographic breakdown
@@ -42,7 +42,7 @@ This project is based on a real-world survey dataset shared by **Alex The Analys
 
 
 ### 2️⃣ Salary Analysis Page
-![Salary Analysis Page](images/salary_analysis_page.png)
+![Salary Analysis Page](Images/salary_analysis_page.png)
 
 **Features:**
 - Average salary by job role (Data Scientists leading at $93.78K)
@@ -53,7 +53,7 @@ This project is based on a real-world survey dataset shared by **Alex The Analys
 
 
 ### 3️⃣ Satisfaction Analysis Page
-![Satisfaction Analysis Page](images/satisfaction_analysis_page.png)
+![Satisfaction Analysis Page](Images/satisfaction_analysis_page.png)
 
 **Features:**
 - Four key satisfaction metrics (Work/life balance, Upward mobility, Work environment, Learning opportunities)
